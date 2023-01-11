@@ -1,4 +1,4 @@
-# chap12pursue
+# Website with Login and Database
 
 Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
 
